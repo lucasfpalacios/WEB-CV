@@ -19,6 +19,9 @@ export default {
       { src: 'https://kit.fontawesome.com/4c0350c107.js', crossorigin: 'anonymous' }
     ]
   },
+  router: {
+    middleware: 'homeRedirect'
+  },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [

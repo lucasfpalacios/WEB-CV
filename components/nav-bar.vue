@@ -8,11 +8,8 @@
         <b-navbar-brand href="#about" class="item">
           {{ $t('components.nav-bar.about') }}
         </b-navbar-brand>
-        <b-navbar-brand href="#" class="item">
-          {{ $t('components.nav-bar.skills') }}
-        </b-navbar-brand>
-        <b-navbar-brand href="#" class="item">
-          {{ $t('components.nav-bar.projects') }}
+        <b-navbar-brand href="https://portfolio-palacios-lucas.vercel.app/" class="item">
+          {{ $t('components.nav-bar.portfolio') }}
         </b-navbar-brand>
       </div>
     </b-navbar>

@@ -27,8 +27,8 @@ import * as FileSaver from 'file-saver'
 
 export default class extends Vue {
   downloadFile () {
-    const fileURL = '/lucas-palacios-cv.pdf'
-    FileSaver.saveAs(fileURL, 'lucas-palacios-cv.pdf')
+    const fileURL = '/lucas-facundo-palacios-cv.pdf'
+    FileSaver.saveAs(fileURL, 'lucas-facundo-palacios-cv.pdf')
   };
 }
 </script>

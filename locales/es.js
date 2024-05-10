@@ -11,7 +11,7 @@ export default {
   // Navbar
   'components.nav-bar.title': 'Inicio',
   'components.nav-bar.about': 'Sobre Mi',
-  'components.nav-bar.portfolio': 'Portfolio',
+  'components.nav-bar.contacto': 'Contacto',
 
   // Footer
   'components.footer.contact.list.media': 'Para contactarte conmigo podes seguirme en las redes:',
@@ -22,5 +22,5 @@ export default {
   // Home
   'pages.home.title': 'Hola, soy Lucas Facundo Palacios',
   'pages.home.subtitle': 'Desarrollador Front-end',
-  'pages.home.contact': 'Contacto'
+  'pages.home.portfolio': 'Portfolio'
 }

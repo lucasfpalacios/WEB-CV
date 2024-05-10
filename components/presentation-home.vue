@@ -7,8 +7,8 @@
       <h2 class="text-light">
         {{ $t('pages.home.subtitle') }}
       </h2>
-      <b-button class="button my-5" href="#footer" variant="outline-light">
-        {{ $t('pages.home.contact') }}
+      <b-button class="button my-5" href="https://portfolio-palacios-lucas.vercel.app/" variant="outline-light">
+        {{ $t('pages.home.portfolio') }}
       </b-button>
     </div>
   </div>

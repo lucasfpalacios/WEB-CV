@@ -2,14 +2,14 @@
   <div id="incio" class="nav-bar">
     <b-navbar toggleable="lg" type="dark">
       <div class="my-3">
-        <b-navbar-brand href="#inicio" class="item">
+        <b-navbar-brand href="#" class="item">
           {{ $t('components.nav-bar.title') }}
         </b-navbar-brand>
         <b-navbar-brand href="#about" class="item">
           {{ $t('components.nav-bar.about') }}
         </b-navbar-brand>
-        <b-navbar-brand href="https://portfolio-palacios-lucas.vercel.app/" class="item">
-          {{ $t('components.nav-bar.portfolio') }}
+        <b-navbar-brand href="#footer" class="item">
+          {{ $t('components.nav-bar.contacto') }}
         </b-navbar-brand>
       </div>
     </b-navbar>
